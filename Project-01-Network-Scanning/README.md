@@ -72,4 +72,5 @@ Pengujian ini menunjukkan bagaimana Nmap dapat digunakan untuk mengidentifikasi 
 Pengujian hanya dilakukan pada sistem lokal milik sendiri (`127.0.0.1`) untuk tujuan pembelajaran.
 
 ## Author
-Cybersecurity Learning Portfolio — SOC Analyst Preparation
+Cybersecurity Learning Portfolio — SOC Analyst Preparation 
+----------- ARWAN -------------------
